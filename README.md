@@ -2,7 +2,7 @@
 A Python-based esolang with a *little bit of different syntax...*
 
 ## Syntax
-It's all memes\*, and each meme is equal to something in C++.  
+It's all memes\*, and each meme is equal to something in Python.  
 Hello world example:
 ```c
 Say the line Bart "Hello, world!"
